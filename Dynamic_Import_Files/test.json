@@ -1,0 +1,16 @@
+{
+   "models":[
+    {
+      "id":"1",
+      "description":"Balestra",
+      "path":"https://dl.dropboxusercontent.com/u/136767565/balestra.obj",
+      "iconPath":"https://dl.dropboxusercontent.com/u/136767565/balestra.jpg"
+    },
+    {
+      "id":"2",
+      "description":"Cannone",
+      "path":"https://dl.dropboxusercontent.com/u/136767565/cannone.obj",
+      "iconPath":"https://dl.dropboxusercontent.com/u/136767565/cannone.jpg"
+    }
+  ]	
+}
